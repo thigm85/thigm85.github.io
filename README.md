@@ -34,4 +34,12 @@ bundle exec jekyll serve
 
 # Basic usage
 
-* https://jekyllrb.com/docs/usage/
+* The [basic usage webpage](https://jekyllrb.com/docs/usage/) explains different options to 
+
+```
+jekyll build [options]
+```
+and
+```
+jekyll serve [options]
+```
